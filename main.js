@@ -499,7 +499,7 @@ this.dob=dob;
 }
 
 //Instantiating a Constructor
-const printMyDetails=new PersonDetail('Sohail','Shaikh','15-5-2020')
+const printMyDetails=new PersonDetail('Sohail','Shaikh','15-5-1997')
 
 console.log(printMyDetails);
 
